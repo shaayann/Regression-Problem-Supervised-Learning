@@ -1,4 +1,4 @@
-# Regression-Problem-Supervised-Learning-
+# Regression-Problem-Supervised-Learning
 ## House Price Prediction Using Machine Learning
 
 ## 1️⃣ Objective
